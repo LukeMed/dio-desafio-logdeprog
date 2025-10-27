@@ -1,5 +1,5 @@
 // Desafio do Felipão - Estruturas Condicionais
-let nome = "Pikachu";
+let nome = "Charmander";
 let XP = 9300;
 
 if (XP < 1000) {
