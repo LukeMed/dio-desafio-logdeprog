@@ -1,6 +1,6 @@
 // Desafio do Felipão - Estruturas Condicionais
 let nome = "Charmander";
-let XP = 9300;
+let XP = 9200;
 
 if (XP < 1000) {
   console.log(nome + " está no nível: Ferro");
